@@ -1,1 +1,6 @@
-parda hited buy harsh
+name = "sunil"
+age = 25
+
+print(age)
+
+print(name)
